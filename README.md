@@ -2,6 +2,8 @@ First project using  Jsp , Jdbc , Mysql , Servlets
 
 Second project using Spring Boot , Jpa , Mysql , Postman
 
+Username for Admin is Admin, Password for admin is Admin
+
 
 ![11](https://user-images.githubusercontent.com/107069293/206435778-f684be9a-5678-420c-aadd-aa75bfe85a9f.png)
 ![12](https://user-images.githubusercontent.com/107069293/206435786-b34aca66-d768-4206-87f1-5c59867e0847.png)
