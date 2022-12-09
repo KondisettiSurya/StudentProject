@@ -1,8 +1,5 @@
-First project using Spring Boot , Jpa , Mysql , Postman
-
-Second project using Spring Boot , Jpa , Mysql , postman , Jpa , Thymeleaf
-
-Third project using  Jsp , Jdbc , Mysql , Servlets 
+First project using  Jsp , Jdbc , Mysql , Servlets 
+Second project using Spring Boot , Jpa , Mysql , Postman
 
 
 ![11](https://user-images.githubusercontent.com/107069293/206435778-f684be9a-5678-420c-aadd-aa75bfe85a9f.png)
